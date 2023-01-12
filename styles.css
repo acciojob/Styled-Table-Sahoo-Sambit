@@ -2,15 +2,12 @@
 table{
 	border-collapse:collapse;
 	width: 100%;
-	border-radius: 20px;
+	border-radius: 200px;
 }
 thead{
 	background-color: rgb(30,100,150);
 	color: white;
 }
-#body2 th{
-	background-color: lightgrey;
-}
-#body4 th{
+.body {
 	background-color: lightgrey;
 }
